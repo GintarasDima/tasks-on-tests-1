@@ -31,4 +31,3 @@ plt.xlabel('Переменная X')
 plt.ylabel('Переменная Y')
 plt.grid()
 plt.show()
-

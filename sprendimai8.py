@@ -15,4 +15,3 @@ figure.set_figwidth(8)
 figure.set_figheight(8)
 
 plt.show()
-
